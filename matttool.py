@@ -72,7 +72,7 @@ seçim: """)
     elif(a==4):
         os.system("taskkill /F /IM python.exe")
     elif(a==3):
-        os.system("python modül1.py")
+        os.system("python module.py")
         break
         
 print("--------------------------------------------------------------------")
